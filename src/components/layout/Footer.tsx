@@ -14,7 +14,7 @@ export function Footer() {
       <Container className="grid gap-12 py-16 md:grid-cols-2 lg:grid-cols-[1.4fr_1fr_1fr_1fr]">
         <div>
           <Image src="/logo.png" alt={site.name} width={512} height={512} className="h-28 w-28" />
-          <p className="mt-5 max-w-sm text-white/70">Guidance on your own assignments, for students in every country. You write it; we help you do it well.</p>
+          <p className="mt-5 max-w-sm text-white/70">Assignment preparation tailored to your subject, requirements and deadline. Get personalised support with research, content development, proofreading and formatting.</p>
         </div>
         <nav aria-label="Footer explore">
           <p className="font-medium">Explore</p>
